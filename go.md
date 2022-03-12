@@ -11,3 +11,4 @@
 # libraries
 
 [livego](https://github.com/gwuhaolin/livego): live video streaming server in golang
+[json2type](https://github.com/hubvue/json2type): convert JSON of a specific format to a type structure(support Typescript type and Go type)
