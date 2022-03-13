@@ -12,3 +12,11 @@
 [cropperjs](https://github.com/beizhedenglong/cropperjs): JavaScript image cropper.
 
 [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot): ✨ Jest matcher for image comparisons. Most commonly used for visual regression testing.
+
+# image generator
+
+[dom-to-image](https://github.com/tsayen/dom-to-image): Generates an image from a DOM node using HTML5 canvas
+
+[html2canvas](https://github.com/niklasvh/html2canvas): Screenshots with JavaScript
+
+[carbon](https://github.com/carbon-app/carbon): 🖤 Create and share beautiful images of your source code

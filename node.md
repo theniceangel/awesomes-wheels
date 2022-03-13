@@ -29,6 +29,9 @@ awesomes things about node.
 
 [esbuild-register](https://github.com/egoist/esbuild-register): Transpile JSX, TypeScript and esnext features on the fly with esbuild
 
+[jiti](https://github.com/unjs/jiti): Runtime Typescript and ESM support for Node.js
+
+
 ## cli
 
 [commander.js](https://github.com/tj/commander.js): node.js command-line interfaces made easy

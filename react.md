@@ -10,7 +10,7 @@
 
 [beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks): 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 
-[](https://github.com/): 
+[react-use](https://github.com/streamich/react-use): React Hooks — 👍
 
 # components
 
@@ -19,3 +19,11 @@
 [react-live](https://github.com/FormidableLabs/react-live): A flexible playground for live editing React components
 
 [react-overdrive](https://github.com/berzniz/react-overdrive): Super easy magic-move transitions for React apps.
+
+[react-ace](https://github.com/securingsincity/react-ace): React Ace Component, [DEMO of React Ace Split Editor](https://securingsincity.github.io/react-ace/split.html)
+
+[react-trend](https://github.com/unsplash/react-trend): 📈 Simple, elegant spark lines
+
+# request
+
+[swr](https://github.com/vercel/swr): React Hooks for Data Fetching

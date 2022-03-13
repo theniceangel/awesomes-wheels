@@ -6,6 +6,10 @@
 
 [awesome-vuepress](https://github.com/vuepress/awesome-vuepress): 🎉 A curated list of awesome things related to VuePress
 
+# vitepress
+
+[vitepress](https://github.com/vuejs/vitepress): Vite & Vue powered static site generator.
+
 
 # metalsmith
 

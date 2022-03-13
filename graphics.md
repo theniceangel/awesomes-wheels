@@ -26,6 +26,7 @@
 
 [chart.xkcd](https://github.com/timqian/chart.xkcd): Chart.xkcd is a chart library that plots “sketchy”, “cartoony” or “hand-drawn” styled charts.
 
+[heatmap.js](https://github.com/pa7/heatmap.js): 🔥 JavaScript Library for HTML5 canvas based heatmaps
 
 
 # WebGL

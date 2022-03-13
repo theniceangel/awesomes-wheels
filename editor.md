@@ -18,8 +18,12 @@
 
 [monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor
 
+[ace](https://github.com/ajaxorg/ace): Ace is a standalone code editor written in JavaScript
 
 [pandao/editor.md](https://github.com/pandao/editor.md): The open source embeddable online markdown editor (component).
 
+[vditor](https://github.com/Vanessa219/vditor): 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。
 
+[zebra-editor-core](https://github.com/acccco/zebra-editor-core): 一款强大、现代的可视化编辑器。
 
+[markdown-editor](https://github.com/jbt/markdown-editor): Live (Github-flavored) Markdown Editor

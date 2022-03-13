@@ -6,6 +6,17 @@
 
 [unocss](https://github.com/unocss/unocss): The instant on-demand atomic CSS engine.
 
+# tailwindcss
+
+[tailwindcss](https://github.com/tailwindlabs/tailwindcss): A utility-first CSS framework for rapid UI development.
+
+[saadeghi/theme-change](https://github.com/saadeghi/theme-change): Change CSS theme with toggle, buttons or select using CSS custom properties and localStorage
+
+[awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss): 😎 Awesome things related to Tailwind CSS
+
+[tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit): Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
+
+
 # css3
 
 [bezierjs](https://github.com/Pomax/bezierjs): A nodejs and client-side library for (cubic) Bezier curve work

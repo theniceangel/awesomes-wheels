@@ -30,6 +30,10 @@
 
 [typescript-exercises](https://github.com/typescript-exercises/typescript-exercises): A set of interactive TypeScript exercises
 
+[type-challenges](https://github.com/type-challenges/type-challenges): Collection of TypeScript type challenges with online judge
+
+[type-zoo](https://github.com/pelotom/type-zoo): A menagerie of useful type operators for TypeScript
+
 
 
 # others

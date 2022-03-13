@@ -48,7 +48,9 @@
 
 [vue-papercss](https://github.com/papercss/vue-papercss): Vue plugin for PaperCSS, easy integration in your Vue projects.
 
+[vue-tagsinput](https://github.com/voerro/vue-tagsinput): A simple tags input with typeahead (autocomplete) built with Vue.js 2.
 
+[vue-trend](https://github.com/QingWei-Li/vue-trend): Simple, elegant spark lines for Vue.js
 
 # utils
 

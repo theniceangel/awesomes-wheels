@@ -2,6 +2,9 @@
 
 [source-map-visualization](https://github.com/sokra/source-map-visualization): Just a simple hacky visualisation of SourceMaps, [playground](http://sokra.github.io/source-map-visualization/)
 
+[evanw/source-map-visualization](https://github.com/evanw/source-map-visualization): A simple visualization of source map data
+
+
 [source-map](https://github.com/mozilla/source-map): Consume and generate source maps
 
 [node-source-map-support](https://github.com/evanw/node-source-map-support): Adds source map support to node.js (for stack traces)

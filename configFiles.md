@@ -3,3 +3,5 @@
 [joycon](https://github.com/egoist/joycon): Find and load config files with joy.
 
 [cosmiconfig](https://github.com/davidtheclark/cosmiconfig): Find and load configuration from a package.json property, rc file, or CommonJS module
+
+[unconfig](https://github.com/antfu/unconfig): A universal solution for loading configurations.

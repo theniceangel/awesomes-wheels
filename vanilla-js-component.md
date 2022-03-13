@@ -36,3 +36,15 @@
 [FileSaver.js](https://github.com/eligrey/FileSaver.js): An HTML5 saveAs() FileSaver implementation
 
 
+# selection
+
+[selection](https://github.com/Simonwep/selection): ✨ Viselect - A simple and lightweight library to add a visual way of selecting elements, just like on your Desktop. Zero dependencies, super small. Support for major frameworks.
+
+# watermark
+
+[watermark.js](https://github.com/pa7/watermark.js): watermark.js is a js library for creating watermarks on images.
+
+
+# typewriter
+
+[typeit](https://github.com/alexmacarthur/typeit): The most versatile JavaScript typewriter effect library on the planet.

@@ -31,3 +31,19 @@
 |  ---  | --- |
 |   unified     |  ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees   |
 |   unified-engine     |  Engine to process multiple files with unified   |
+
+[Rough](https://github.com/rough-stuff): Hand drawn graphics for the web ⇢ 🎨 RoughJs ✏️ RoughNotation ☑️ Wired-Elements
+
+|  library   | note  |
+|  ---  | --- |
+|    rough    |  Create graphics with a hand-drawn, sketchy, appearance   |
+|    wired-elements     |  Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.   |
+|    rough-notation     |  Create and animate hand-drawn annotations on a web page   |
+
+[Tailwind Labs](https://github.com/tailwindlabs): Creators of Tailwind CSS, Tailwind UI, and Refactoring UI.
+
+
+|  library   | note  |
+|  ---  | --- |
+|   tailwindcss    |  A utility-first CSS framework for rapid UI development.   |
+|   tailwindcss playground    |  play tailwindcss   |
