@@ -12,6 +12,7 @@
 
 [react-use](https://github.com/streamich/react-use): React Hooks — 👍
 
+
 # components
 
 [react-content-loader](https://github.com/danilowoz/react-content-loader): ⚪ SVG-Powered component to easily create skeleton loadings.
@@ -23,6 +24,14 @@
 [react-ace](https://github.com/securingsincity/react-ace): React Ace Component, [DEMO of React Ace Split Editor](https://securingsincity.github.io/react-ace/split.html)
 
 [react-trend](https://github.com/unsplash/react-trend): 📈 Simple, elegant spark lines
+
+[react-query](https://github.com/tannerlinsley/react-query): ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+
+[react-canvas-confetti](https://github.com/ulitcos/react-canvas-confetti): React component for canvas-confetti library
+
+[react-photo-view](https://github.com/MinJieLiu/react-photo-view): An exquisite React photo preview component.
+
+
 
 # request
 

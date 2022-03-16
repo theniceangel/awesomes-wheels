@@ -52,6 +52,11 @@
 
 [vue-trend](https://github.com/QingWei-Li/vue-trend): Simple, elegant spark lines for Vue.js
 
+[vue-confetti](https://github.com/alexandermendes/vue-confetti): A Vue component for dropping confetti
+
+[vue-advanced-cropper](https://github.com/Norserium/vue-advanced-cropper): About
+The advanced vue cropper library that gives you opportunity to create your own croppers suited for any website design
+
 # utils
 
 [unplugin-vue2-script-setup](https://github.com/antfu/unplugin-vue2-script-setup): Bring `<script setup>` to Vue 2.

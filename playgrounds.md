@@ -23,3 +23,7 @@
 [vue-template-compiler-playground](https://github.com/HcySunYang/vue-template-compiler-playground): 
 
 [tailwind](https://github.com/tailwindlabs/play.tailwindcss.com): tailwind playground
+
+[shiki-playground](https://github.com/shikijs/shiki-playground): 
+
+[npmview](https://github.com/pd4d10/npmview): A web application to view npm package files

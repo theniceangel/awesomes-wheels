@@ -16,6 +16,7 @@
 
 [tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit): Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 
+[gradient-designer](https://github.com/jenstornell/gradient-designer): Gradient Designer for tailwindcss
 
 # css3
 
@@ -45,3 +46,8 @@
 
 [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css): 💄CSS tricks for web developers~
 
+# layout
+
+[csslayout](https://github.com/1milligram/csslayout): A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
+
+[magic-of-css](https://github.com/adamschwartz/magic-of-css): A CSS course to turn you into a magician.

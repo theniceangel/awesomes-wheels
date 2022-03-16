@@ -12,7 +12,8 @@
 
 [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe): JavaScript image gallery for mobile and desktop, modular, framework independent
 
-[PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe): JavaScript image gallery for mobile and desktop, modular, framework independent
+[lightgallery.js](https://github.com/sachinchoolur/lightgallery.js): Full featured JavaScript image & video gallery. No dependencies
+
 
 
 # virtual-scroll
@@ -48,3 +49,13 @@
 # typewriter
 
 [typeit](https://github.com/alexmacarthur/typeit): The most versatile JavaScript typewriter effect library on the planet.
+
+[typed.js](https://github.com/mattboldt/typed.js): A JavaScript Typing Animation Library
+
+# keyboard
+
+[KeyboardJS](https://github.com/RobertWHurst/KeyboardJS): A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts.
+
+# drag and drop
+
+[draggable](https://github.com/Shopify/draggable): The JavaScript Drag & Drop library your grandparents warned you about.

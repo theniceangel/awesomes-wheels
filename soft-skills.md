@@ -11,3 +11,7 @@
 [bespoke](https://github.com/bespokejs/bespoke): DIY Presentation Micro-Framework
 
 [slidev](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Beta)
+
+[codehike](https://github.com/code-hike/codehike): not just a syntax Hightlighter.
+
+[code-surfer](https://github.com/pomber/code-surfer): Rad code slides <🏄/>

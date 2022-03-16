@@ -47,3 +47,19 @@
 |  ---  | --- |
 |   tailwindcss    |  A utility-first CSS framework for rapid UI development.   |
 |   tailwindcss playground    |  play tailwindcss   |
+
+[Tauri](https://github.com/tauri-apps): Build smaller, faster, and more secure desktop applications with a web frontend
+
+|  library   | note  |
+|  ---  | --- |
+|    tauri     |  Build smaller, faster, and more secure desktop applications with a web frontend.   |
+|   tauri-docs     |  The source for all tauri project documentation.   |
+
+[colorjs](https://github.com/colorjs): Color in JavaScript
+
+
+|  library   | note  |
+|  ---  | --- |
+|    color-rgba     |  Get rgba array from color string  |
+|   color-parse      |  Color string parser   |
+|   color-parse      |  get-image-colors  |

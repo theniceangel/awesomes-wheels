@@ -32,8 +32,11 @@
 
 [type-challenges](https://github.com/type-challenges/type-challenges): Collection of TypeScript type challenges with online judge
 
+[type-challenges-solutions](https://github.com/ghaiklor/type-challenges-solutions): Solutions for the collection of TypeScript type challenges with explanations
+
 [type-zoo](https://github.com/pelotom/type-zoo): A menagerie of useful type operators for TypeScript
 
+[SimplyTyped](https://github.com/andnp/SimplyTyped): yet another Typescript type library for advanced types
 
 
 # others

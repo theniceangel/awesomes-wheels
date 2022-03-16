@@ -28,5 +28,16 @@
 
 [heatmap.js](https://github.com/pa7/heatmap.js): 🔥 JavaScript Library for HTML5 canvas based heatmaps
 
+[canvas-confetti](https://github.com/catdad/canvas-confetti): 🎉 on-demand confetti gun(五彩纸屑)
+
+[Canvas-Txt](https://github.com/geongeorge/Canvas-Txt): The better way to render text on HTML5 Canvas
+
+[matter-js](https://github.com/liabru/matter-js): a 2D rigid body physics engine for the web ▲● ■
+
+[paper.js](https://github.com/paperjs/paper.js): The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 
 # WebGL
+
+# DOM
+
+[](https://github.com/evmar/webtreemap): 

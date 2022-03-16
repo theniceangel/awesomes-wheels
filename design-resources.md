@@ -8,3 +8,7 @@
 [heroicons](https://github.com/tailwindlabs/heroicons): A set of free MIT-licensed high-quality SVG icons for UI development.
 
 [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools): The best design tools and plugins for everything 👉
+
+[iconify](https://github.com/iconify/iconify): Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons).
+
+[vector-creator](https://icons8.com/mega-creator): Mega Creator gives you unlimited ways to make astonishing design for every need. Design new stuff with graphics from the in-house production company.

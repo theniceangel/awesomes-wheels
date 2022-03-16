@@ -38,7 +38,13 @@ awesomes things about node.
 
 [cac](https://github.com/cacjs/cac): Simple yet powerful framework for building command-line apps.
 
+#  interactive prompts
 
+[prompts](https://github.com/terkelg/prompts): ❯ Lightweight, beautiful and user-friendly interactive prompts
+
+[Inquirer](https://github.com/SBoudrias/Inquirer.js): A collection of common interactive command line user interfaces.
+
+[enquirer](https://github.com/enquirer/enquirer): Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase
 
 ## utils
 
@@ -49,3 +55,4 @@ awesomes things about node.
 [node-lru-cache](https://github.com/isaacs/node-lru-cache): 
 
 [chokidar](https://github.com/paulmillr/chokidar): Minimal and efficient cross-platform file watching library
+

@@ -13,6 +13,10 @@
 
 [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot): ✨ Jest matcher for image comparisons. Most commonly used for visual regression testing.
 
+[image-js](https://github.com/image-js/image-js): Image processing and manipulation in JavaScript
+
+[vaporwave](https://github.com/itorr/vaporwave): 📹「 蒸 気 機 」虚拟信号蒸汽波风格化影像后期工具
+
 # image generator
 
 [dom-to-image](https://github.com/tsayen/dom-to-image): Generates an image from a DOM node using HTML5 canvas
