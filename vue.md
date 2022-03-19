@@ -10,7 +10,7 @@
 
 [splitpanes](https://github.com/antoniandre/splitpanes): A Vue 2 & 3 reliable, simple and touch-ready panes splitter / resizer
 
-[vue-timeago](https://github.com/egoist/vue-timeago): A timeago component for Vue. 
+[vue-timeago](https://github.com/egoist/vue-timeago): A timeago component for Vue.
 
 [vue-tasty-burgers](https://github.com/imfaber/vue-tasty-burgers): An easy to use hamburger buttons library for VueJS
 
@@ -24,7 +24,7 @@
 
 [v-mask](https://github.com/probil/v-mask): 🔡 Tiny input mask library for Vue.js (directive)
 
-[vue-moveable](https://github.com/daybrush/moveable): 
+[vue-moveable](https://github.com/daybrush/moveable):
 
 [vue-slicksort](https://github.com/Jexordexan/vue-slicksort): A set of vue mixins to turn any list into an animated, touch-friendly, sortable list
 
@@ -56,6 +56,10 @@
 
 [vue-advanced-cropper](https://github.com/Norserium/vue-advanced-cropper): About
 The advanced vue cropper library that gives you opportunity to create your own croppers suited for any website design
+
+[vue-particle-effect-buttons](https://github.com/dreambo8563/vue-particle-effect-buttons): A bursting particles effects buttons component ✨💥❄️🌋
+
+[vue-toggles](https://github.com/juliandreas/vue-toggles): dreambo8563/vue-particle-effect-buttons
 
 # utils
 

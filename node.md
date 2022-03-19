@@ -22,7 +22,6 @@ awesomes things about node.
 
 [cors](https://github.com/expressjs/cors): Node.js CORS middleware
 
-
 ## runtime
 
 [esno](https://github.com/antfu/esno): TypeScript / ESNext node runtime powered by esbuild
@@ -31,14 +30,13 @@ awesomes things about node.
 
 [jiti](https://github.com/unjs/jiti): Runtime Typescript and ESM support for Node.js
 
-
 ## cli
 
 [commander.js](https://github.com/tj/commander.js): node.js command-line interfaces made easy
 
 [cac](https://github.com/cacjs/cac): Simple yet powerful framework for building command-line apps.
 
-#  interactive prompts
+# interactive prompts
 
 [prompts](https://github.com/terkelg/prompts): ❯ Lightweight, beautiful and user-friendly interactive prompts
 
@@ -52,7 +50,8 @@ awesomes things about node.
 
 [envinfo](https://github.com/tabrindle/envinfo): Generate a report about your development environment for debugging and issue reporting
 
-[node-lru-cache](https://github.com/isaacs/node-lru-cache): 
+[node-lru-cache](https://github.com/isaacs/node-lru-cache):
 
 [chokidar](https://github.com/paulmillr/chokidar): Minimal and efficient cross-platform file watching library
 
+[terminal-kit](https://github.com/cronvel/terminal-kit): Terminal utilities for node.js

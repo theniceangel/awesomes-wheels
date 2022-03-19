@@ -6,7 +6,6 @@
 
 [ssim](https://github.com/obartra/ssim): 🖼🔬 JavaScript Image Comparison
 
-
 [sharp](https://github.com/lovell/sharp): High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 
 [cropperjs](https://github.com/beizhedenglong/cropperjs): JavaScript image cropper.
@@ -24,3 +23,5 @@
 [html2canvas](https://github.com/niklasvh/html2canvas): Screenshots with JavaScript
 
 [carbon](https://github.com/carbon-app/carbon): 🖤 Create and share beautiful images of your source code
+
+[img2css](https://github.com/javierbyte/img2css): Convert any image to pure CSS. Recreates images using only box-shadows.

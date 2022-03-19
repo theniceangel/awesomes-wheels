@@ -14,8 +14,6 @@
 
 [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js): Full featured JavaScript image & video gallery. No dependencies
 
-
-
 # virtual-scroll
 
 [vue-recyclerview](https://github.com/hilongjw/vue-recyclerview): Mastering Large Lists with the vue-recyclerview
@@ -36,7 +34,6 @@
 
 [FileSaver.js](https://github.com/eligrey/FileSaver.js): An HTML5 saveAs() FileSaver implementation
 
-
 # selection
 
 [selection](https://github.com/Simonwep/selection): ✨ Viselect - A simple and lightweight library to add a visual way of selecting elements, just like on your Desktop. Zero dependencies, super small. Support for major frameworks.
@@ -44,7 +41,6 @@
 # watermark
 
 [watermark.js](https://github.com/pa7/watermark.js): watermark.js is a js library for creating watermarks on images.
-
 
 # typewriter
 
@@ -59,3 +55,7 @@
 # drag and drop
 
 [draggable](https://github.com/Shopify/draggable): The JavaScript Drag & Drop library your grandparents warned you about.
+
+# zip
+
+[jszip](https://github.com/Stuk/jszip): Create, read and edit .zip files with Javascript

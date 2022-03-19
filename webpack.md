@@ -8,12 +8,13 @@
 
 [webpack-sources](https://github.com/webpack/webpack-sources): Contains multiple classes which represent a Source. A Source can be asked for source code, size, source map and hash.
 
-[hard-source-webpack-plugin](https://github.com/mzgoddard/hard-source-webpack-plugin): 
+[hard-source-webpack-plugin](https://github.com/mzgoddard/hard-source-webpack-plugin):
 
 [webpack/memory-fs](https://github.com/): [DEPRECATED use memfs instead] A simple in-memory filesystem. Holds data in a javascript object.
 
 [tapable](https://github.com/webpack/tapable): Just a little module for plugins.
 
+[jarvis](https://github.com/zouhir/jarvis): A very intelligent browser based Webpack dashboard
 
 # loaders
 

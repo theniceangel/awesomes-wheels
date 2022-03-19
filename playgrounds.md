@@ -27,3 +27,5 @@
 [shiki-playground](https://github.com/shikijs/shiki-playground): 
 
 [npmview](https://github.com/pd4d10/npmview): A web application to view npm package files
+
+[p5.js-web-editor](https://github.com/processing/p5.js-web-editor): p5.js Web Editor, officially launched!
