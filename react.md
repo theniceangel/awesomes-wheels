@@ -12,7 +12,6 @@
 
 [react-use](https://github.com/streamich/react-use): React Hooks — 👍
 
-
 # components
 
 [react-content-loader](https://github.com/danilowoz/react-content-loader): ⚪ SVG-Powered component to easily create skeleton loadings.
@@ -31,8 +30,10 @@
 
 [react-photo-view](https://github.com/MinJieLiu/react-photo-view): An exquisite React photo preview component.
 
-
+[react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit): About A lightweight magic-move library for configurable layout transitions
 
 # request
 
 [swr](https://github.com/vercel/swr): React Hooks for Data Fetching
+
+[svgr](https://github.com/gregberge/svgr): Transform SVGs into React components 🦁

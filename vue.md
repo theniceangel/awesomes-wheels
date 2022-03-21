@@ -61,6 +61,8 @@ The advanced vue cropper library that gives you opportunity to create your own c
 
 [vue-toggles](https://github.com/juliandreas/vue-toggles): dreambo8563/vue-particle-effect-buttons
 
+[vue-flip-toolkit](https://github.com/mattrothenberg/vue-flip-toolkit): A Vue.js port of the wonderful react-flip-toolkit by @aholachek
+
 # utils
 
 [unplugin-vue2-script-setup](https://github.com/antfu/unplugin-vue2-script-setup): Bring `<script setup>` to Vue 2.
