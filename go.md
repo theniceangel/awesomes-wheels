@@ -2,7 +2,7 @@
 
 [GoBooks](https://github.com/dariubs/GoBooks): List of Golang books
 
-[go-demo](https://github.com/pibigstar/go-demo): 
+[go-demo](https://github.com/pibigstar/go-demo):
 
 [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 
@@ -11,3 +11,5 @@
 # libraries
 
 [livego](https://github.com/gwuhaolin/livego): live video streaming server in golang
+
+[go-npm](https://github.com/sanathkr/go-npm): Find dominant color in images
