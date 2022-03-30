@@ -59,3 +59,7 @@
 # zip
 
 [jszip](https://github.com/Stuk/jszip): Create, read and edit .zip files with Javascript
+
+# guide
+
+[intro](https://github.com/usablica/intro.js): Lightweight, user-friendly onboarding tour library

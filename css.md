@@ -1,3 +1,5 @@
+[css vocabulary](http://apps.workflower.fi/vocabs/css/en)
+
 # frameworks
 
 [tailwindcss](https://github.com/tailwindlabs/tailwindcss): A utility-first CSS framework for rapid UI development.
@@ -26,7 +28,7 @@
 
 [transformation-matrix-js](https://github.com/leeoniya/transformation-matrix-js): An implementation of a 2D transformation matrix for JavaScript.
 
-[bezier-easing](https://github.com/gre/bezier-easing): cubic-bezier implementation for your JavaScript animation easings 
+[bezier-easing](https://github.com/gre/bezier-easing): cubic-bezier implementation for your JavaScript animation easings
 
 [bezier-easing-editor](https://github.com/gre/bezier-easing-editor): Cubic Bezier Curve editor made with React & SVG
 
@@ -45,6 +47,10 @@
 [iCSS](https://github.com/chokcoco/iCSS): 不止于 CSS
 
 [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css): 💄CSS tricks for web developers~
+
+[magic-of-css](https://adamschwartz.co/magic-of-css/): A CSS course to turn you into a magician.
+
+[awesome-css](https://github.com/awesome-css-group/awesome-css): 🎨 A curated contents of amazing CSS :)
 
 # layout
 
