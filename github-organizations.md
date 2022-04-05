@@ -61,3 +61,10 @@
 | color-rgba  | Get rgba array from color string |
 | color-parse | Color string parser              |
 | color-parse | get-image-colors                 |
+
+[vuedx](https://github.com/vuedx): Building best developer experience for Vue
+
+| library       | note                                                     |
+| ------------- | -------------------------------------------------------- |
+| languagetools | A collection of tools for better IDE experience.         |
+| preview       | Quick prototyping and UI feedback tool built on top Vite |

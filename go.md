@@ -12,6 +12,8 @@
 
 [gobyexample](https://github.com/mmcgrana/gobyexample): Go by Example
 
+[7days-golang](https://github.com/geektutu/7days-golang)
+
 # libraries
 
 [livego](https://github.com/gwuhaolin/livego): live video streaming server in golang

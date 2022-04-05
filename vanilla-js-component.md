@@ -60,6 +60,14 @@
 
 [jszip](https://github.com/Stuk/jszip): Create, read and edit .zip files with Javascript
 
+# diff
+
+[diff-match-patch](https://github.com/google/diff-match-patch): Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
+
 # guide
 
 [intro](https://github.com/usablica/intro.js): Lightweight, user-friendly onboarding tour library
+
+# terminal
+
+[xterm](https://github.com/xtermjs/xterm.js/): A terminal for the web
