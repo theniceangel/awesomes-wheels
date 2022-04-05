@@ -14,4 +14,4 @@
 
 [How To Debug Node.js Code in Visual Studio Code](https://www.digitalocean.com/community/tutorials/how-to-debug-node-js-code-in-visual-studio-code#step-7-debugging-with-attach-to-port-with-nodemon): How To Debug Node.js Code in Visual Studio Code
 
-> 关于上述文章有一个地方有误，如果 vscode 想要通过 port attach 的方式 debugger，node 必须通过 `--inspect` 启动程序，如果 vscode 通过 processId 的方式 debugger，node 不需要通过 `--inspect` 启动程序
+> 关于上述文章有一个地方有误，如果 vscode 想要通过 port attach 的方式 debugger，node 必须通过 `--inspect` 启动程序，如果 vscode 通过 processId 的方式 debugger，node 不需要通过 `--inspect` 启动程序，但是如果先以 processId 方式 debugger 过了，可以接着通过 port attach 方式 debugger，你可以认为通过 processId 方式 debugger，默认会把 node 推向 inspect 模式
