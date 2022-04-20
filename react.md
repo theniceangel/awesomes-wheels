@@ -35,5 +35,3 @@
 # request
 
 [swr](https://github.com/vercel/swr): React Hooks for Data Fetching
-
-[svgr](https://github.com/gregberge/svgr): Transform SVGs into React components 🦁

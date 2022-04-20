@@ -18,4 +18,12 @@
 
 [livego](https://github.com/gwuhaolin/livego): live video streaming server in golang
 
-[go-npm](https://github.com/sanathkr/go-npm): Find dominant color in images
+# markdown
+
+[blackfriday](https://github.com/russross/blackfriday): Blackfriday: a markdown processor for Go
+
+# deliver
+
+[goreleaser](https://github.com/goreleaser/goreleaser): Deliver Go binaries as fast and easily as possible
+
+[go-npm](https://github.com/sanathkr/go-npm): Distribute and install Go binaries via NPM

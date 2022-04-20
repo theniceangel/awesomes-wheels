@@ -6,6 +6,12 @@
 
 [cytoscape](https://github.com/cytoscape/cytoscape.js): Graph theory (network) library for visualisation and analysis
 
+[svgr](https://github.com/gregberge/svgr): Transform SVGs into React components 🦁
+
+[svgo](https://github.com/svg/svgo): ⚙️ Node.js tool for optimizing SVG files
+
+[SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus): JavaScript library enabling SVG icons to morph from one to the other. It implements Material Design's Delightful Details transitions
+
 # canvas
 
 ## vis
