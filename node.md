@@ -54,4 +54,10 @@ awesomes things about node.
 
 [chokidar](https://github.com/paulmillr/chokidar): Minimal and efficient cross-platform file watching library
 
+## terminal
+
 [terminal-kit](https://github.com/cronvel/terminal-kit): Terminal utilities for node.js
+
+[gradient-string](https://github.com/bokub/gradient-string): 🌈 Beautiful color gradients in terminal output
+
+[chalk-animation](https://github.com/bokub/chalk-animation): 🎬 Colorful animations in terminal output

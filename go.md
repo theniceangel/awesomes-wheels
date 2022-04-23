@@ -27,3 +27,15 @@
 [goreleaser](https://github.com/goreleaser/goreleaser): Deliver Go binaries as fast and easily as possible
 
 [go-npm](https://github.com/sanathkr/go-npm): Distribute and install Go binaries via NPM
+
+# json
+
+[json-iterator](https://github.com/json-iterator/go): A high-performance 100% compatible drop-in replacement of "encoding/json"
+
+# web framework
+
+[gin](https://github.com/gin-gonic/gin): Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+
+# image server
+
+[picfit](https://github.com/thoas/picfit): An image resizing server written in Go
