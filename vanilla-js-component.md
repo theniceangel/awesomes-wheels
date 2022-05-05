@@ -71,3 +71,11 @@
 # terminal
 
 [xterm](https://github.com/xtermjs/xterm.js/): A terminal for the web
+
+# autocomplete
+
+[autocomplete](https://github.com/algolia/autocomplete): 🔮 Fast and full-featured autocomplete library
+
+# hotkeys
+
+[hotkeys](https://github.com/jaywcjlove/hotkeys): ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.

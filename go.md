@@ -14,6 +14,8 @@
 
 [7days-golang](https://github.com/geektutu/7days-golang)
 
+[gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin): 基于 vite+vue3+gin 搭建的开发基础平台（已完成 setup 语法糖版本），集成 jwt 鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套 CURD 前后端代码。
+
 # libraries
 
 [livego](https://github.com/gwuhaolin/livego): live video streaming server in golang

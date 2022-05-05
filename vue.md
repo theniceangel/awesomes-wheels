@@ -61,8 +61,6 @@ The advanced vue cropper library that gives you opportunity to create your own c
 
 [vue-toggles](https://github.com/juliandreas/vue-toggles): dreambo8563/vue-particle-effect-buttons
 
-[vue-flip-toolkit](https://github.com/mattrothenberg/vue-flip-toolkit): A Vue.js port of the wonderful react-flip-toolkit by @aholachek
-
 # utils
 
 [unplugin-vue2-script-setup](https://github.com/antfu/unplugin-vue2-script-setup): Bring `<script setup>` to Vue 2.
@@ -72,3 +70,9 @@ The advanced vue cropper library that gives you opportunity to create your own c
 [vueuse](https://github.com/vueuse/vueuse): Collection of essential Vue Composition Utilities for Vue 2 and 3
 
 [vue-composable](https://github.com/pikax/vue-composable): Vue composition-api composable components. i18n, validation, pagination, fetch, etc. +50 different composables
+
+# flip
+
+[vue-flip-toolkit](https://github.com/mattrothenberg/vue-flip-toolkit): A Vue.js port of the wonderful react-flip-toolkit by @aholachek
+
+[v-shared-element](https://github.com/justintaddei/v-shared-element): Declarative shared-element transitions for Vue.js
