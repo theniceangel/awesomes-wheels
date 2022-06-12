@@ -59,6 +59,7 @@
 # zip
 
 [jszip](https://github.com/Stuk/jszip): Create, read and edit .zip files with Javascript
+[zip.js](https://github.com/gildas-lormeau/zip.js): JavaScript library to zip and unzip files in the browser and Deno
 
 # diff
 
