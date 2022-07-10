@@ -11,3 +11,7 @@
 [pandas](https://github.com/pandas-dev/pandas): Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 
 [matplotlib](https://github.com/matplotlib/matplotlib): matplotlib: plotting with Python
+
+# json
+
+[pyjson5](https://github.com/dpranke/pyjson5): A Python implementation of the JSON5 data format
